@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Coin
+  - Bullet
+  - Enemy
+  - Power-Up
+  - Ammo
+  - Portal
+  - Checkpoint
+  - FakeGround
+  - Spike
+  - Axe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Sprites
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Sky
+    uniqueID: 561389
+    locked: 0
+  - name: Background
+    uniqueID: 3848477249
+    locked: 0
+  - name: Ground
+    uniqueID: 4233224071
+    locked: 0
+  - name: Checkpoints
+    uniqueID: 3446219383
+    locked: 0
+  - name: Power-Up
+    uniqueID: 2268283005
+    locked: 0
+  - name: Coin
+    uniqueID: 3500683921
+    locked: 0
+  - name: Ammo
+    uniqueID: 1179084781
+    locked: 0
+  - name: Portal
+    uniqueID: 1334897383
+    locked: 0
+  - name: Sprites
+    uniqueID: 4095188173
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
