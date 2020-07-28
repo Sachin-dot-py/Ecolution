@@ -4,6 +4,10 @@ A nature loving man faces many challenges in his way to make the earth, green on
 
 ![Ecolution](Assets/Other/Ecolution_Title.png)
 
+## Download
+
+Download the game for Mac OS X [here](Ecolution.app).
+
 ## Why did we build this game?
 
 We built this game for the GIIS Hackathon 2K20, a competition to make a game using Unity and C# on the topic "Environmental Sustainability".
